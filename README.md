@@ -15,24 +15,24 @@ Use Cases:
 
  ✨ Key Features
 
-🔹 ****Abstractive Summarization**  **
+🔹 Abstractive Summarization
 Generates human-like summaries by rephrasing and restructuring content.
 
-🔹** **Extractive Summarization** ** 
+🔹Extractive Summarization
 Picks the most relevant sentences directly from the input.
 
-🔹 ****mbart-large-50**  **
+🔹 mbart-large-50
 A multilingual transformer model by Facebook AI supporting 50+ languages including Urdu.
 
-🔹** **Easy-to-use Interface**  **
+🔹Easy-to-use Interface
 Command-line and notebook-based interface for researchers and developers.
 
 
-**** 🧰 Tech Stack
+🧰 Tech Stack
 
-- **Python** – Core development
-- **Transformers (Hugging Face)** – Pretrained `mbart-large-50` model
-- **Torch** – Deep learning backend
-- **NLTK / SpaCy** – Tokenization and text processing (extractive part)
-- **Jupyter Notebook** – Demo and experimentation
+- Python – Core development
+- Transformers (Hugging Face) – Pretrained `mbart-large-50` model
+- Torch – Deep learning backend
+- NLTK / SpaCy – Tokenization and text processing (extractive part)
+- Jupyter Notebook – Demo and experimentation
 
